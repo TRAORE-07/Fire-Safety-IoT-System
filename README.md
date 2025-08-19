@@ -5,7 +5,7 @@ The system is composed of:
 - Breadboard
 - Gaz sensor
 - Temperature sensor
-- Photoresistor
+- Photoresistor (Light Sensor)
 - Buzzer
 - LCD and Potentiometer
 - LED red and LED green
