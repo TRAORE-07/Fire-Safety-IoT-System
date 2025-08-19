@@ -11,4 +11,9 @@ The system is composed of:
 - LED red and LED green
 - Wires
 
-The system triggers buzzer and an red led in cas of gaz level >= 300, temperature >= 50 and light intensity hight. Then finally print an alert message on the LCD.
+The green light remain on if no sensors are detecting a value higher than the threshold value set.
+If all conditions are met (detected values higher than threshold values), the system triggers the buzzer, turns the red LED on and then finally prints an alert message on the LCD.
+The threshold values are:
+- Gaz level >= 300,
+- Temperature >= 50,
+- Light intensity hight.
