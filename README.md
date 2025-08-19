@@ -16,4 +16,4 @@ If all conditions are met (detected values higher than threshold values), the sy
 The threshold values are:
 - Gaz level >= 300,
 - Temperature >= 50,
-- Light intensity hight.
+- Light intensity >= 500.
