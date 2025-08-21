@@ -20,6 +20,7 @@ The threshold values are:
 ---
 ## NO FIRE DETECTED
 <img width="1180" height="771" alt="Case 1 - NO FIRE DETECTED" src="https://github.com/user-attachments/assets/857a5a03-f682-449e-833a-463761e34872" />
+
 ---
 ## FIRE DETECTED
 <img width="1179" height="754" alt="Case 2 - FIRE DETECTED" src="https://github.com/user-attachments/assets/ac2a67aa-72aa-4250-b18a-17da9bb6f8a4" />
